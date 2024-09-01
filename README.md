@@ -31,7 +31,7 @@ The following calculations were performed using DAX:
 
 - **RFM Score:** A composite score calculated by ranking each customer on recency, frequency, and monetary value.
 
-- **RFM Segmentation:** Based on RFM score, customers are divided into Champions, Loyal Customers, Potential Loyalists, Promising, New Customers, Need Attention, At Risk, and Lost.
+- **RFM Segmentation:** Based on the RFM score, customers are divided into Champions, Loyal Customers, Potential Loyalists, Promising, New Customers, Need Attention, At Risk, and Lost.
 
 ## Insights
 
@@ -84,3 +84,6 @@ The following calculations were performed using DAX:
 5. **Expand in High-Performing Geographies:** The USA is your strongest market, but Australia and Canada also show potential. Consider tailoring marketing strategies specific to these regions to increase market share.
 
 6. **Optimize Product Offerings:** With Electronics, Grocery, and Clothing being top-selling categories, ensure that your inventory, pricing strategies, and marketing campaigns are aligned with customer demand in these areas.
+
+[Check out Live Dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiZDA2NGM4NjgtMzEyOC00ZmJkLWE0MGEtYmFmMmZlNzJjODMxIiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9)
+
